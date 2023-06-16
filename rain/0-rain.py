@@ -1,12 +1,12 @@
 #!/usr/bin/python3
-"""calculate how many square units of 
+"""calculate how many square units of
 water will be retained after it rains
 """
 
 
 def rain(walls):
     """
-    this function calculates how many square units of 
+    this function calculates how many square units of
     water will be retained after it rains
     """
     if not walls:
